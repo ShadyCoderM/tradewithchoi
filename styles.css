@@ -61,12 +61,11 @@ img {
 }
 
 .hero {
-  min-height: min(820px, calc(100vh - 56px));
   display: grid;
   grid-template-columns: minmax(0, 0.9fr) minmax(420px, 1.1fr);
   gap: 28px;
   align-items: center;
-  padding: 34px 0 24px;
+  padding: 54px 0 24px;
 }
 
 .hero-copy {
@@ -94,7 +93,7 @@ ul {
 
 h1 {
   margin-bottom: 18px;
-  font-size: 84px;
+  font-size: 76px;
   line-height: 0.92;
   font-weight: 950;
   text-transform: uppercase;
@@ -464,7 +463,7 @@ h1 {
   }
 
   h1 {
-    font-size: 64px;
+    font-size: 58px;
   }
 
   .hero-copy {
@@ -490,7 +489,7 @@ h1 {
   }
 
   h1 {
-    font-size: 43px;
+    font-size: 40px;
   }
 
   .lead {
